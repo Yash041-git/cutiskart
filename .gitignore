@@ -1,0 +1,44 @@
+# Ignore Maven build output
+/target/
+
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Ignore Eclipse project files
+.project
+.classpath
+.settings/
+
+# Ignore NetBeans project files
+/nbproject/
+
+# Ignore Maven Wrapper files
+.mvn/
+mvnw
+mvnw.cmd
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.swp
+*.swo
+
+# Ignore .env and other sensitive configuration files
+.env
+*.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Selenium WebDriver logs or screenshots
+/webdriver_logs/
+/screenshots/
+
+# Ignore test reports
+/test-output/
+
+# Ignore compiled class files
+*.class
