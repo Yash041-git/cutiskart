@@ -34,7 +34,7 @@ public class CheckoutPage {
 
 //    public void confirmOrder() throws InterruptedException {
 //        driver.findElement(prepaidButton).click();
-//        Thread.sleep(2000);
+//       Thread.sleep(2000);
 //   
 //        driver.findElement(confirmButton).click();
 //    }
