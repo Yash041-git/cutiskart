@@ -26,6 +26,8 @@ public class PaymentPage {
         driver.switchTo().frame(driver.findElement(iframe));
 
     }
+    
+    
 
 //    // Enter card details
 //    public void enterCardDetails(String cardNum, String month,String year, String cvvCode) {
