@@ -16,11 +16,6 @@ public class HomePage {
         this.driver = driver;
     }
     
-//  jkflf
-//    kfnbfmb
-//    fnkvdnkv
-//    vken
-
     // Method to click on the profile icon
     public void clickProfileIcon() {
         WebElement icon = driver.findElement(profileIcon);
