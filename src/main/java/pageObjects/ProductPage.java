@@ -43,6 +43,7 @@ public class ProductPage {
          Thread.sleep(2000);
     }
 
+    
 //    // Opens the product detail page
 //    public void openProductDetail() {
 //        wait.until(ExpectedConditions.elementToBeClickable(productDetail)).click();
