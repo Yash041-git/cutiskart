@@ -23,7 +23,7 @@ public class E2ESteps {
 
     @Given("I open the website")
     public void i_launch_the_website_using_the_url() {
-        driver.get("https://cutis-web-ui.demotest.in/"); 
+        driver.get("https://www.cutiskart.com/"); 
     }
 
     @And("I click on the profile icon to navigate to the signin page")
