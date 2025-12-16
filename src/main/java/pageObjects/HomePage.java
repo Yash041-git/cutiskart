@@ -11,7 +11,7 @@ public class HomePage {
     // Locators for elements on the home page
     private By profileIcon = By.xpath("//*[@id=\"root\"]/header/div[2]/div[1]/div[3]/div[2]/a"); 
 
-    // Constructor
+    // Constructor 
     public HomePage(WebDriver driver) {
         this.driver = driver;
     }
